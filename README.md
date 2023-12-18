@@ -12,7 +12,7 @@ A system built to manage the bookings of tickets for PSL. This includes the foll
       Effective management of booking of seats according to enclosure type and category
     </li>
     <li>
-      DTrV4ihtVwPGVkkXuAPtHNfZa6NZzN5hrN
+      Deletion of reservations already made
     </li>
   </ol>
   
