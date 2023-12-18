@@ -1,9 +1,19 @@
-**Hey! Welcome to PSL Management System**
+#**Hey! Welcome to PSL Management System**
 
 A system built to manage the bookings of tickets for PSL. This includes the following features:
-  •	A user interface which allows user to create an account as well
-  •	Effective management of pricing of tickets
-  •	Effective management of booking of seats according to enclosure type and category
-  •	Deletion of reservations already made
-
-Implementing it as my semester project assigned in the first semester of Undergrad Degree in CS was a bit difficult but a fun and learning task.
+  <ol>
+    <li>
+       A user interface that allows users to create an account as well
+    </li>
+    <li>
+      Effective management of pricing of tickets
+    </li>
+    <li>
+      Effective management of booking of seats according to enclosure type and category
+    </li>
+    <li>
+      DTrV4ihtVwPGVkkXuAPtHNfZa6NZzN5hrN
+    </li>
+  </ol>
+  
+Implementing it as my semester project assigned in the first semester of my undergraduate degree in CS was a bit difficult but a fun and learning task.
